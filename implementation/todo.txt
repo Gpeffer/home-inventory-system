@@ -1,4 +1,0 @@
-Goal: Only have to make one more grocery list
-
-User will scan QR code to annotate user needs to replace item
-Will need Python API, S3 Bucket
